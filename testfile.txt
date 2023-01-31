@@ -3,3 +3,4 @@ test data
 modified test data
 test data  iteration 3
 dummy key for test AKIAIOSFODNN7EXAMPLE
+dummy secret wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
